@@ -17,7 +17,7 @@ Esse projeto reúne alguns conhecimentos vistos até o momento na linguagem PHP 
 
 ## WAMPP + PHP Admin
 
-Utilizei a ferramento WAMPP para rodar em local arquivos PHP e PHP Admin para criar um banco de dados fictício;
+Utilizei a ferramenta WAMPP para rodar em local arquivos PHP e PHP Admin para criar um banco de dados fictício;
 
 ![N|Solid](https://media.giphy.com/media/xRQ4lhtTefk0N2i5PX/giphy.gif)
 
